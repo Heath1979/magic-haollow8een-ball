@@ -10,6 +10,7 @@
 /* general style */
 body {
     font-family: creepster, sans-serif;
+    background: url('../images/8ball-background.jpg');
 }
 
 /* header */
@@ -29,3 +30,47 @@ header {
 i {
     color: white;
 }
+
+/* body */
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+}
+
+button {
+    padding: 1.5rem;
+    font-size: 1.5rem;
+    font-family: creepster, sans-serif;
+    letter-spacing: 3px;
+    background-color: orange;
+    color: green;
+    border-radius: 5%;
+}
+
+#ball {
+    margin-top: 5rem;
+    height: 18rem;
+    width: 18rem;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+}
+
+#window {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 6rem;
+    width: 6rem;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    inset: 0;
+    margin: auto;
+    font-size: x-large;
+}
+    
