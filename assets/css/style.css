@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap" rel="stylesheet');
+
+/* Asterix wildcard selector to override default styles added bu the browser*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* general style */
+body {
+    font-family: creepster, sans-serif;
+}
+
+/* header */
+header {
+    color: silver;
+    background-color: black;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    letter-spacing: 3px;
+    flex-shrink: 1;
+    flex-grow: 1;
+}
+
+i {
+    color: white;
+}
