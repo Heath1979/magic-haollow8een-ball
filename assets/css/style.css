@@ -74,3 +74,15 @@ button {
     font-size: x-large;
 }
     
+/* media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    #ball {
+        height: 25rem;
+        width: 25rem;
+    }
+
+    #window {
+        height: 8rem;
+        width: 8rem;
+    }
+}

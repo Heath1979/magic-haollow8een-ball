@@ -302,11 +302,12 @@ For Desktop
 ### **Content References**
 All content written for the website is purely fictional and?
 - [Code Institute](https://codeinstitute.net/ie/) for their HTML/CSS learning material.
+- [Perplexity](https://www.perplexity.ai) for help with the JavaScript.
 
 ### **Media References**  
   - [Google fonts](https://fonts.google.com/) for font used on the site.
   - [Font awesome](https://fontawesome.com/) for icons used on the site.
-  - [Pixabay](https://pixabay.com/) for images used on this site.
+  - [Pixabay](https://pixabay.com/) for images used on this site. Credit Linnea, Bianca Van Dijk, Clker-free-vector-images, Limoncito Sketching, Deeznutz1, Mahua Sarkar, OpenClipart-vectors, GraphicMamma-team.
 
 ### **Acknowledgements** 
 - Add acknowledgments in bullet points.
