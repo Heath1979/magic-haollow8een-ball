@@ -1,12 +1,13 @@
 let picture = [
     "<img src='assets/images/ghosticonicon.png'>",
-    "Go carve a pumpkin.",
-    "Pretend that you are BATman",
-    "Open a can of beer, and drink it",
-    "load up on cupcakes",
-    "The happy world of Haribo",
-    "Get some money, cash is king",
-    "Wear a skeleton outfit",
+    "<img src='assets/images/beericon.png'>",
+    "<img src='assets/images/cakeicon.png'>",
+    "<img src='assets/images/candyicon.png'>",
+    "<img src='assets/images/coffeeicon.png'>",
+    "<img src='assets/images/moneyicon.png'>",
+    "<img src='assets/images/moonicon.png'>",
+    "<img src='assets/images/skullicon.png'>",
+    "<img src='assets/images/spidericon.png'>",
 ];
 
 // Get a random item from the picture array
