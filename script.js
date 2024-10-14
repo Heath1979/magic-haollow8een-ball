@@ -1,5 +1,5 @@
 let picture = [
-    "Be scared by a ghost.",
+    "<img src='assets/images/ghosticonicon.png'>",
     "Go carve a pumpkin.",
     "Pretend that you are BATman",
     "Open a can of beer, and drink it",
